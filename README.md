@@ -15,12 +15,12 @@ Cryptocurrency analysis for Investment Bank, Accountability Accounting, who is l
 
 Scatter Plot
 
-
+![scatter](/Images/bokeh_plot.png)
 
 3D Scatter Plot
 
-
+![3D](/Images/newplot.png)
 
 Table
 
-
+![Table](/Images/table.png)
