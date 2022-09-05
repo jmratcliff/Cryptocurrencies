@@ -11,5 +11,16 @@ Cryptocurrency analysis for Investment Bank, Accountability Accounting, who is l
 * Clustering Algorithim - K-means
 * Data visualizations of cryptocurrencies results
 
+## Results
 
- 
+Scatter Plot
+
+
+
+3D Scatter Plot
+
+
+
+Table
+
+
