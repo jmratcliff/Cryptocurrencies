@@ -24,3 +24,8 @@ Scatter Plot
 Table
 
 ![Table](/Images/table.png)
+
+
+## Summary
+
+Above images are interactive and can be utilized in the repositories Jupyter Notebook file.
